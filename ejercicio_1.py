@@ -4,4 +4,3 @@ def area_rectangulo(base, altura):
 
 print(area_rectangulo(15, 10))
 
-print('modificacion')
